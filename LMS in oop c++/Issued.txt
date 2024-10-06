@@ -1,0 +1,10 @@
+ JavaScript gandhi 1002 890
+PERSON INFORMATION -> Name: ali Contact Number03958599944
+ PST Ahmad 666 600
+PERSON INFORMATION -> Name: jamal Contact Number03994933333
+ english Tom 999 800
+PERSON INFORMATION -> Name: taimoor Contact Number023023020
+ python Cobra 444 840
+PERSON INFORMATION -> Name: saim Contact Number03004958573
+ URDU Ghalib 777 800
+PERSON INFORMATION -> Name: junaid Contact Number03009674594

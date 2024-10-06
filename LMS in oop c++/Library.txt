@@ -1,0 +1,9 @@
+ java jinnah 111 800
+ c++ jack 222 700
+ python Cobra 444 840
+ PST Ahmad 666 600
+ URDU Ghalib 777 800
+ MATH Khan 888 800
+ english Tom 999 800
+ database Hamad 454 799
+ JavaScript gandhi 1002 890
